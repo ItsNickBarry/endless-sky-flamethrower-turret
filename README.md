@@ -3,6 +3,8 @@ A plugin for [Endless Sky][endless-sky] which adds a turret variant of the flame
 
 ![image][image]
 
+The flamethrower turret is unlocked as a part of the Free Worlds storyline.
+
 [endless-sky]: https://github.com/endless-sky/endless-sky
 [image]: images/outfit/flamethrower%20turret@2x.png
 
