@@ -22,6 +22,8 @@ outfit "Flamethrower Turret"
 		sprite "effect/explosion/small"
 			"frame rate" 60
 			"no repeat"
+		"hardpoint sprite" "hardpoint/flamethrower turret"
+		"hardpoint offset" 7.			
 		sound "flamethrower"
 		icon "icon/flamethrower"
 		"submunition" "Flamethrower Turret Projectile"
