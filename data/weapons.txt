@@ -28,6 +28,7 @@ outfit "Flamethrower Turret"
 		icon "icon/flamethrower"
 		"submunition" "Flamethrower Turret Projectile"
 		"inaccuracy" 12
+		"turret turn" 3.7
 		"velocity" 13
 		"lifetime" 5
 		"reload" 1
