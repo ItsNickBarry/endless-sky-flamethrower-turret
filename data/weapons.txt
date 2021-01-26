@@ -35,7 +35,7 @@ outfit "Flamethrower Turret"
 		"firing energy" .25
 		"firing fuel" .5
 		"firing heat" 3
-	description "The turret-mounted flamethrower represents the epitome of Free Worlds creative extravagance. So great are its fuel requirements that it comes with a standard fuel pod pre-installed. Smaller ships which lack powerful cooling systems should stay out of range at all costs."
+	description "The turret-mounted flamethrower represents the epitome of Free Worlds creative extravagance. So great are its fuel requirements that it comes with a standard fuel pod pre-installed, though no prudent captain would leave port without a reliable ramscoop as well. Smaller ships which lack powerful cooling systems should stay out of range at all costs."
 
 outfit "Flamethrower Turret Projectile"
 	weapon
