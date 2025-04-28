@@ -4,7 +4,7 @@ Upstream-Contact: Nick Barry <itsnickbarry@protonmail.ch>
 Source: https://github.com/ItsNickBarry/endless-sky-flamethrower-turret
 
 Files:
- data/Bunsen Burner/*
+ data/*
  images/outfit/bunsen burner turret*.png
 Copyright: Nick Barry (github.com/itsnickbarry)
 License: CC-BY-SA-4.0
