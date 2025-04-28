@@ -1,4 +1,5 @@
-# Endless Sky Flamethrower Turret
+# Endless Sky Bunsen Burner
+
 A plugin for [Endless Sky][endless-sky] which adds the Bunsen Burner, a next-generation flamethrower, including a turret version.
 
 ![image][image]
