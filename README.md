@@ -1,6 +1,8 @@
 # Endless Sky Flamethrower Turret
 A plugin for [Endless Sky][endless-sky] which adds a turret variant of the flamethrower.
 
+> This repository is no longer maintained, and will not work with the latest versions of Endless Sky.  As of May 2025, an updated version is available from a third party.  See [PR #7](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret/pull/7) for more infromation.
+
 ![image][image]
 
 The flamethrower turret is unlocked as a part of the Free Worlds storyline.
