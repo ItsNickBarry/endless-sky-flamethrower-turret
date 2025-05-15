@@ -8,6 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-event "flamethrower turret available"
+event "bunsen burner available"
 	outfitter "Kraz Advanced"
-		"Flamethrower Turret"
+		add "Bunsen Burner"
+		add "Bunsen Burner Turret"

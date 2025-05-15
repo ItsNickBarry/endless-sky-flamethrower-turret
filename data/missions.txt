@@ -8,7 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-mission "FW Flamethrower Turret 1"
+mission "FW Bunsen Burner 1"
 	landing
 	name "Weapon Testing"
 	description "When you have time, report to <destination>, where Barmy Edward has another weapon he would like you to test."
@@ -19,18 +19,17 @@ mission "FW Flamethrower Turret 1"
 
 	on offer
 		conversation
-			`A message arrives from Barmy Edward of Kraz Cybernetics. He writes: "Greetings! We've prototyped a new weapon based on the same technology as the flamethrower. Stop by our lab on <destination> if you have time to help us test it."`
+			`A message arrives from Barmy Edward of Kraz Cybernetics: "Greetings! We've prototyped a new weapon based on the same technology as the flamethrower. Stop by our lab on <destination> if you have time to help us test it."`
 				accept
 
 
-
-mission "FW Flamethrower Turret 2"
+mission "FW Bunsen Burner 2"
 	landing
 	name "Weapon Testing"
 	description "A test ship with new weaponry is in orbit around <planet>. Fight and disable it (but do not destroy it!) and then land to give Dr. Cardona feedback on its performance."
 	source Rust
 	to offer
-		has "FW Flamethrower Turret 1: done"
+		has "FW Bunsen Burner 1: done"
 	on offer
 		conversation
 			`You received a message recently from Barmy Edward, asking you to stop by the Kraz Cybernetics facility to help test a new weapon. Do you want to visit them now?`
@@ -56,10 +55,10 @@ mission "FW Flamethrower Turret 2"
 	npc save disable
 		personality staying heroic
 		government "Test Dummy"
-		ship "Argosy (Flamethrower Turret)" "Redhammer"
+		ship "Argosy (Bunsen Burner Turret)" "Redhammer"
 
 	on complete
-		event "flamethrower turret available" 70
+		event "bunsen burner available" 60
 		conversation
 			`You return to Kraz Cybernetics to deliver your report to Dr. Cardona. As you approach the hangar, he steps outside, removes a respirator and pair of safety goggles from his face, and rushes forward to meet you.`
 			`	"Captain <last>, you're back so soon? Come, let us discuss your findings in my office, where the air is - uh - better conditioned. It's humid out here, no?"`

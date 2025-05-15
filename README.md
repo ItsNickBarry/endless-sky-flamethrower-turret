@@ -1,14 +1,15 @@
-# Endless Sky Flamethrower Turret
-A plugin for [Endless Sky][endless-sky] which adds a turret variant of the flamethrower.
+# Endless Sky Bunsen Burner
+
+A plugin for [Endless Sky][endless-sky] which adds the Bunsen Burner, a next-generation flamethrower, including a turret version.
 
 > This repository is no longer maintained, and will not work with the latest versions of Endless Sky.  As of May 2025, an updated version is available from a third party.  See [PR #7](https://github.com/ItsNickBarry/endless-sky-flamethrower-turret/pull/7) for more infromation.
 
 ![image][image]
 
-The flamethrower turret is unlocked as a part of the Free Worlds storyline.
+The Bunsen Burner is unlocked as a part of the Free Worlds storyline.
 
 [endless-sky]: https://github.com/endless-sky/endless-sky
-[image]: images/outfit/flamethrower%20turret@2x.png
+[image]: images/outfit/bunsen%20burner%20turret@2x.png
 
 ## Installation
 You must create a "plugins" folder in one of two places, depending on your operating system:

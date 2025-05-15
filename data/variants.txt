@@ -8,9 +8,9 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-ship "Argosy" "Argosy (Flamethrower Turret)"
+ship "Argosy" "Argosy (Bunsen Burner Turret)"
 	outfits
-		"Flamethrower Turret" 2
+		"Bunsen Burner Turret" 2
 		"Fission Reactor"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"

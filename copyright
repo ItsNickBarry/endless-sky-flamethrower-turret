@@ -3,19 +3,25 @@ Upstream-Name: endless-sky-flamethrower-turret
 Upstream-Contact: Nick Barry <itsnickbarry@protonmail.ch>
 Source: https://github.com/ItsNickBarry/endless-sky-flamethrower-turret
 
-Files: *
-Copyright: Nick Barry (github.com/itsnickbarry)
-License: GPL-3+
-
-Files: images/*
-Copyright: Nick Barry (github.com/itsnickbarry)
+Files:
+ data/*
+ images/outfit/bunsen burner turret*.png
+Copyright: Nick Barry (https://github.com/ItsNickBarry)
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com>
+Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com).
 
-Files: images/hardpoint/*
-Copyright: Kriegstofu (github.com/kriegstofu)
+Files:
+ images/hardpoint/*
+Copyright: Kriegstofu (https://github.com/kriegstofu)
 License: CC-BY-SA-4.0
-Comment: Derived from works by Michael Zahniser <mzahniser@gmail.com>
+Comment: Derived from works by Michael Zahniser (mzahniser@gmail.com).
+
+Files:
+ images/outfit/bunsen burner*.png
+ images/projectile/*.png
+Copyright: Michael Zahniser (mzahniser@gmail.com).
+License: CC-BY-SA-4.0
+Comment: -
 
 License: GPL-3+
  This program is free software: you can redistribute it and/or modify
